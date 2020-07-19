@@ -1,0 +1,112 @@
+{
+	"testType": [
+		{
+			"id": 1,
+			"name": "Viral Load",
+			"measures": [
+				{
+					"id": 1,
+					"name": "M01"
+				},
+				{
+					"id": 2,
+					"name": "M02"
+				},
+				{
+					"id": 3,
+					"name": "M03"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "01",
+			"measures": [
+				{
+					"id": 1,
+					"name": "M01"
+				},
+				{
+					"id": 2,
+					"name": "M02"
+				},
+				{
+					"id": 3,
+					"name": "M03"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"name": "02",
+			"measures": [
+				{
+					"id": 1,
+					"name": "M01"
+				},
+				{
+					"id": 2,
+					"name": "M02"
+				},
+				{
+					"id": 3,
+					"name": "M03"
+				}
+			]
+		},
+		{
+			"id": 4,
+			"name": "03",
+			"measures": [
+				{
+					"id": 1,
+					"name": "M01"
+				},
+				{
+					"id": 2,
+					"name": "M02"
+				},
+				{
+					"id": 3,
+					"name": "M03"
+				}
+			]
+		},
+		{
+			"id": 5,
+			"name": "04",
+			"measures": [
+				{
+					"id": 1,
+					"name": "M01"
+				},
+				{
+					"id": 2,
+					"name": "M02"
+				},
+				{
+					"id": 3,
+					"name": "M03"
+				}
+			]
+		},
+		{
+			"id": 4,
+			"name": "03",
+			"measures": [
+				{
+					"id": 1,
+					"name": "M01"
+				},
+				{
+					"id": 2,
+					"name": "M02"
+				},
+				{
+					"id": 3,
+					"name": "M03"
+				}
+			]
+		},
+	]
+}
