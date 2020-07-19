@@ -2,7 +2,21 @@
 	"testType": [
 		{
 			"id": 1,
-			"name": "Viral Load"
+			"name": "Viral Load",
+			"measures": [
+				{
+					"id": 1,
+					"name": "M01"
+				},
+				{
+					"id": 2,
+					"name": "M02"
+				},
+				{
+					"id": 3,
+					"name": "M03"
+				}
+			]
 		}
 	]
 }
