@@ -1,273 +1,273 @@
 {
     "testType": [{
             "id": 1,
-            "name": "Viral Load",
+            "name": "2006098733",
             "date": "25/07/2020 17:09:00",
             "sampleType": "Plasma",
             "fullName": "Patient i"
         },
         {
             "id": 2,
-            "name": "01",
+            "name": "20060901",
             "date": "25/07/2020 17:09:00",
             "sampleType": "Whole Blood",
             "fullName": "Patient iBlood"
         },
         {
             "id": 3,
-            "name": "02",
+            "name": "20060902",
             "date": "25/07/2020 17:09:00",
             "sampleType": "DBS",
             "fullName": "Patient i"
         },
         {
             "id": 4,
-            "name": "03",
+            "name": "20060903",
             "date": "25/07/2020 17:09:00",
             "sampleType": "Plasma",
             "fullName": "Patient i"
         },
         {
             "id": 5,
-            "name": "04",
+            "name": "20060904",
             "date": "25/07/2020 17:09:00",
             "sampleType": "Plasma",
             "fullName": "Patient i"
         },
         {
             "id": 4,
-            "name": "03",
+            "name": "20060903",
             "date": "25/07/2020 17:09:00",
             "sampleType": "Plasma",
             "fullName": "Patient i"
         },
         {
             "id": 5,
-            "name": "04",
+            "name": "20060904",
             "date": "25/07/2020 17:09:00",
             "sampleType": "Plasma",
             "fullName": "Patient i"
         },
         {
             "id": 4,
-            "name": "03",
+            "name": "20060903",
             "date": "25/07/2020 17:09:00",
             "sampleType": "Plasma",
             "fullName": "Patient i"
         },
         {
             "id": 5,
-            "name": "04",
+            "name": "20060904",
             "date": "25/07/2020 17:09:00",
             "sampleType": "Plasma",
             "fullName": "Patient i"
         },
         {
             "id": 4,
-            "name": "03",
+            "name": "20060903",
             "date": "25/07/2020 17:09:00",
             "sampleType": "Plasma",
             "fullName": "Patient i"
         },
         {
             "id": 5,
-            "name": "04",
+            "name": "20060904",
             "date": "25/07/2020 17:09:00",
             "sampleType": "Whole Blood",
             "fullName": "Patient iBlood"
         },
         {
             "id": 4,
-            "name": "03",
+            "name": "20060903",
             "date": "25/07/2020 17:09:00",
             "sampleType": "Plasma",
             "fullName": "Patient i"
         },
         {
             "id": 5,
-            "name": "04",
+            "name": "20060904",
             "date": "25/07/2020 17:09:00",
             "sampleType": "Whole Blood",
             "fullName": "Patient iBlood"
         },
         {
             "id": 1,
-            "name": "Viral Load",
+            "name": "200609Viral Load",
             "date": "25/07/2020 17:09:00",
             "sampleType": "Plasma",
             "fullName": "Patient i"
         },
         {
             "id": 2,
-            "name": "01",
+            "name": "20060901",
             "date": "25/07/2020 17:09:00",
             "sampleType": "Whole Blood",
             "fullName": "Patient iBlood"
         },
         {
             "id": 3,
-            "name": "02",
+            "name": "20060902",
             "date": "25/07/2020 17:09:00",
             "sampleType": "DBS",
             "fullName": "Patient i"
         },
         {
             "id": 4,
-            "name": "03",
+            "name": "20060903",
             "date": "25/07/2020 17:09:00",
             "sampleType": "Plasma",
             "fullName": "Patient i"
         },
         {
             "id": 5,
-            "name": "04",
+            "name": "20060904",
             "date": "25/07/2020 17:09:00",
             "sampleType": "Whole Blood",
             "fullName": "Patient iBlood"
         },
         {
             "id": 4,
-            "name": "03",
+            "name": "20060903",
             "date": "25/07/2020 17:09:00",
             "sampleType": "Plasma",
             "fullName": "Patient i"
         },
         {
             "id": 5,
-            "name": "04",
+            "name": "20060904",
             "date": "25/07/2020 17:09:00",
             "sampleType": "DBS",
             "fullName": "Patient i"
         },
         {
             "id": 4,
-            "name": "03",
+            "name": "20060903",
             "date": "25/07/2020 17:09:00",
             "sampleType": "DBS",
             "fullName": "Patient i"
         },
         {
             "id": 5,
-            "name": "04",
+            "name": "20060904",
             "date": "25/07/2020 17:09:00",
             "sampleType": "DBS",
             "fullName": "Patient i"
         },
         {
             "id": 4,
-            "name": "03",
+            "name": "20060903",
             "date": "25/07/2020 17:09:00",
             "sampleType": "Plasma",
             "fullName": "Patient i"
         },
         {
             "id": 5,
-            "name": "04",
+            "name": "20060904",
             "date": "25/07/2020 17:09:00",
             "sampleType": "Plasma",
             "fullName": "Patient i"
         },
         {
             "id": 4,
-            "name": "03",
+            "name": "20060903",
             "date": "25/07/2020 17:09:00",
             "sampleType": "Plasma",
             "fullName": "Patient i"
         },
         {
             "id": 5,
-            "name": "04",
+            "name": "20060904",
             "date": "25/07/2020 17:09:00",
             "sampleType": "DBS",
             "fullName": "Patient i"
         },
         {
             "id": 1,
-            "name": "Viral Load",
+            "name": "200609Viral Load",
             "date": "25/07/2020 17:09:00",
             "sampleType": "DBS",
             "fullName": "Patient i"
         },
         {
             "id": 2,
-            "name": "01",
+            "name": "20060901",
             "date": "25/07/2020 17:09:00",
             "sampleType": "DBS",
             "fullName": "Patient i"
         },
         {
             "id": 3,
-            "name": "02",
+            "name": "20060902",
             "date": "25/07/2020 17:09:00",
             "sampleType": "DBS",
             "fullName": "Patient i"
         },
         {
             "id": 4,
-            "name": "03",
+            "name": "20060903",
             "date": "25/07/2020 17:09:00",
             "sampleType": "DBS",
             "fullName": "Patient i"
         },
         {
             "id": 5,
-            "name": "04",
+            "name": "20060904",
             "date": "25/07/2020 17:09:00",
             "sampleType": "DBS",
             "fullName": "Patient i"
         },
         {
             "id": 4,
-            "name": "03",
+            "name": "20060903",
             "date": "25/07/2020 17:09:00",
             "sampleType": "DBS",
             "fullName": "Patient i"
         },
         {
             "id": 5,
-            "name": "04",
+            "name": "20060904",
             "date": "25/07/2020 17:09:00",
             "sampleType": "DBS",
             "fullName": "Patient i"
         },
         {
             "id": 4,
-            "name": "03",
+            "name": "20060903",
             "date": "25/07/2020 17:09:00",
             "sampleType": "DBS",
             "fullName": "Patient i"
         },
         {
             "id": 5,
-            "name": "04",
+            "name": "20060904",
             "date": "25/07/2020 17:09:00",
             "sampleType": "Plasma",
             "fullName": "Patient i"
         },
         {
             "id": 4,
-            "name": "03",
+            "name": "20060903",
             "date": "25/07/2020 17:09:00",
             "sampleType": "Plasma",
             "fullName": "Patient i"
         },
         {
             "id": 5,
-            "name": "04",
+            "name": "20060904",
             "date": "25/07/2020 17:09:00",
             "sampleType": "Plasma",
             "fullName": "Patient i"
         },
         {
             "id": 4,
-            "name": "03",
+            "name": "20060903",
             "date": "25/07/2020 17:09:00",
             "sampleType": "Plasma",
             "fullName": "Patient i"
         },
         {
             "id": 5,
-            "name": "04",
+            "name": "20060904",
             "date": "25/07/2020 17:09:00",
             "sampleType": "Plasma",
             "fullName": "Patient i"
